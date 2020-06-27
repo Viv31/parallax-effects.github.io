@@ -1,0 +1,73 @@
+
+		body{
+			margin: 0px;
+			padding: 0px;
+		}
+		.mybox1{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;	
+		background-attachment: fixed;
+		}
+		.mybox2{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg2.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+		.mybox3{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg3.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+
+		.mybox4{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg4.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+
+		.mybox5{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg5.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+		.mybox6{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg6.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+
+		.mybox7{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg7.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+		.mybox8{
+		height: 100vh;
+		width: 100%;
+		background-image: url('../img/bg8.jpg');
+		background-size: cover;	
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		}
+
